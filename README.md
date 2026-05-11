@@ -1,7 +1,5 @@
 <img src="assets/BioshockHDStartup.png" alt="BioShock Remastered" width="700"/>
 
-<br>
-
 # 🧊 BioShock Remastered Plugins
 
 This is a repository created for *BioShock Remastered* which contains a plugin loader proxy dll.
