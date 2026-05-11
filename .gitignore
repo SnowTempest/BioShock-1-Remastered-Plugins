@@ -23,7 +23,6 @@
 *.dll
 *.so.*
 
-
 # Fortran module files
 *.mod
 *.smod
@@ -68,14 +67,6 @@ vcpkg_installed/
 Testing/
 .cache/
 .vs/
-
-# Visual Studio Build Folders (Crucial!)
-[Bb]in/
-[Oo]bj/
-[Xx]64/
-[Xx]86/
-[Dd]ebug*/
-[Rr]elease*/
 
 # Visual Studio User Settings
 *.user
