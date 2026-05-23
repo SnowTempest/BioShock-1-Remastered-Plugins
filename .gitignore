@@ -80,3 +80,5 @@ Testing/
 *.opensdf
 *.VC.db
 *.VC.opendb
+/plugins/AdamVile/AdamVile.vcxproj
+/plugins/AdamVile/AdamVile.vcxproj.filters
