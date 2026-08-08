@@ -4,4 +4,5 @@
   </Configurations>
   <Project Path="dxgi/dxgi.vcxproj" Id="175ec99a-af3d-4c51-898e-75249b94c5a8" />
   <Project Path="plugins/AdamVile/AdamVile.vcxproj" Id="2e705a6b-88db-4757-973e-9139a9065db4" />
+  <Project Path="version/version.vcxproj" Id="acc51587-a01c-4bf2-90c9-68b117b3dd9d" />
 </Solution>
